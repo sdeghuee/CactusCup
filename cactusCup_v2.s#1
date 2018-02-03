@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="8.4.0">
+<eagle version="8.3.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="yes"/>
@@ -8798,8 +8798,6 @@ Source: www.kingbright.com</description>
 [X] Audio Filter
 [X] Battery Connector
 [X] power switch</text>
-<text x="172.72" y="205.74" size="1.778" layer="97">battery charger</text>
-<text x="177.8" y="162.56" size="1.778" layer="97">Voltage Reg</text>
 </plain>
 <instances>
 <instance part="C6" gate="G$1" x="160.02" y="142.24"/>
